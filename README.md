@@ -50,6 +50,26 @@ In competitive e-commerce marketplaces like Amazon, sellers must constantly deci
 | Are there associations between discount, price, and rating tier? | Chi-Square Tests |
 
 ---
+## ✅ Business Recommendations
+
+ - **Use discounts only for new product launches** - the **6.29% uplift** is real but
+   uncertain (CI: -17.9% to +31.8%). Broad discounting risks margin erosion without
+   guaranteed returns.
+- **Build retention programs for the Very High CLV segment** - **22.8% of customers
+   generate 80% of revenue**. Targeted loyalty programs here deliver disproportionate
+   long-term impact.
+- **Shift to targeted acquisition** - focusing on top 25% CLV customers delivers
+   **237% more LTV** (₹66.4M vs ₹19.7M) from the same acquisition effort.
+- **Invest in product quality, not pricing** - **neither discount level nor price
+   meaningfully affects ratings**. Quality and accurate descriptions drive satisfaction.
+- **Prioritise retention over margin** - moving retention from **50% → 70%
+   triples average CLV** (₹1,088 → ₹3,234), a bigger lever than any margin improvement.
+- **Concentrate on smartphones and Smart TVs** - these **two categories dominate
+   long-term revenue** entirely. Allocate marketing and inventory disproportionately here.
+- **Collect more data before policy decisions** - current samples are underpowered.
+   **3,264 per group** needed to reliably detect a **15% business-meaningful uplift**.
+   
+---
 
 ## 📂 Dataset
 
@@ -242,30 +262,4 @@ directing more traffic to the better-performing group while still exploring.
 | Retention beats margin | ₹1,088 → ₹3,234 CLV | Post-purchase experience is critical |
 | Electronics dominate LTV | Smartphones + Smart TVs | Concentrate marketing investment here |
 
----
-
-## ✅ Business Recommendations
-
-1. **Use discounts only for new product launches** - the **6.29% uplift** is real but
-   uncertain (CI: -17.9% to +31.8%). Broad discounting risks margin erosion without
-   guaranteed returns.
-
-2. **Build retention programs for the Very High CLV segment** - **22.8% of customers
-   generate 80% of revenue**. Targeted loyalty programs here deliver disproportionate
-   long-term impact.
-
-3. **Shift to targeted acquisition** - focusing on top 25% CLV customers delivers
-   **237% more LTV** (₹66.4M vs ₹19.7M) from the same acquisition effort.
-
-4. **Invest in product quality, not pricing** - neither discount level nor price
-   meaningfully affects ratings. Quality and accurate descriptions drive satisfaction.
-
-5. **Prioritise retention over margin** - moving retention from **50% → 70%
-   triples average CLV** (₹1,088 → ₹3,234), a bigger lever than any margin improvement.
-
-6. **Concentrate on smartphones and Smart TVs** - these two categories dominate
-   long-term revenue entirely. Allocate marketing and inventory disproportionately here.
-
-7. **Collect more data before policy decisions** - current samples are underpowered.
-   **3,264 per group** needed to reliably detect a **15% business-meaningful uplift**.
 ---
